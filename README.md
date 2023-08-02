@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/vidhishiste/vidhishiste/main/banner_image_git.webp)
  <h1 align="center">Hi 👋, I'm Vidhi Shiste</h1>
 <h3 align="center">A passionate Software developer from India</h3>
  
