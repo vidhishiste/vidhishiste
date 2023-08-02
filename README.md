@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://drive.google.com/file/d/1WKgxukpzhyGPB3hJWeXhCU2-CMhtTJpB/view?usp=drive_link">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhishiste&label=Profile%20views&color=0e75b6&style=flat" alt="vidhishiste" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhishiste" alt="vidhishiste" /></a> </p>
 
