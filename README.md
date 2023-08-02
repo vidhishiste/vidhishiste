@@ -1,7 +1,7 @@
  [![Masterhead](https://drive.google.com/file/d/1WKgxukpzhyGPB3hJWeXhCU2-CMhtTJpB/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Vidhi Shiste</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img aligh = "right" alt="coding" width="400" src="https://drive.google.com/file/d/1WKgxukpzhyGPB3hJWeXhCU2-CMhtTJpB/view?usp=drive_link">
+<img align = "right" alt="coding" width="400" src="https://drive.google.com/file/d/1WKgxukpzhyGPB3hJWeXhCU2-CMhtTJpB/view?usp=drive_link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhishiste&label=Profile%20views&color=0e75b6&style=flat" alt="vidhishiste" /> </p>
 
