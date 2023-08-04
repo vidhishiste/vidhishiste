@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vidhi.shiste@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H0p5KXwLt-WFDkT7Z7sm5x2_en_uj9RO/view?usp=sharing](https://drive.google.com/file/d/1H0p5KXwLt-WFDkT7Z7sm5x2_en_uj9RO/view?usp=sharing)
+- 📄 Know about my experiences :<a href="https://drive.google.com/file/d/1H0p5KXwLt-WFDkT7Z7sm5x2_en_uj9RO/view?usp=sharing"> My Resume </a>
 
 - ⚡ Hobbies **I am a trekker and I love to read books.**
 
